@@ -5,4 +5,4 @@
 - I enjoy making stupid/silly shit
 - almost never post projects unless i find them extra funny or useful (tbh probably for yall's best interest i wouldn't wanna read my own code if it was the first time i saw it
   
-[  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draculalover3421&theme=midnight-purple" alt="Top Langs">]
+[  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticup&show_icons=true&theme=tokyonight" alt="Top Langs">]
